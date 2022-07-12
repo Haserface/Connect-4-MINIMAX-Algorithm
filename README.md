@@ -4,6 +4,8 @@ Connect4 - AI for 2 player game via Minimax Algorithm and Alpha Beta Pruning
 Minimax Algorithm is a recursive backtracking algorithm used in decision making and Game Theroy. It calculates all possible outcomes of a particular decision recursively and thereby makes the best decision. This makes it useful in designing AIs for 2 player games like Tic-Tac-Toe, Connect4, Chess, etc.
 
 In this project I have applied this Algorithm to design an AI for the game Connect4. Connect4 is a 2 player game where alternate turns are played and the first player occupying 4 consecutive places horizontally, vertically or diagonally wins.
+
+
 ![image](https://user-images.githubusercontent.com/109017617/178504374-8b6cd631-5190-4ae8-839a-5cc4449130a1.png)
 
 
